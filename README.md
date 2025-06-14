@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Illinois</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
