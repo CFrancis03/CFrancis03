@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Illinois</h3>
 
 
-- 🌱 I’m currently learning **Rust**
+<h4 align="center">- 🌱 I’m currently learning **Rust**</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
