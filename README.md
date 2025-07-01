@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Illinois</h3>
 
 
-<h4 align="center">- 🌱 I’m currently learning: Rust and Typescript</h4>
+<h4 align="center">- 🌱 I’m currently learning: Typescript</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
