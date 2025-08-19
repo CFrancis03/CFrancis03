@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Illinois</h3>
 
 
-<h4 align="center">- 🌱 I’m currently learning: C++ (along side Assembly and PHP in school)</h4>
+<h4 align="center">- 🌱 I’m currently learning: C++ (along side Assembly and PHP in class)</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
