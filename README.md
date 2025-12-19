@@ -2,7 +2,7 @@
 <h3 align="center">A software engineer from Illinois</h3>
 
 
-<h4 align="center">- 🌱 I’m currently learning: Nix (along side Assembly and PHP in class)</h4>
+<h4 align="center">- 🌱 I’m currently learning: Nix and C++</h4>
 
 
 <h3 align="center">Languages and Tools:</h3>
